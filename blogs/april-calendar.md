@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-la-palma | what happens after an arrest in La Palma | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-la-palma | what happens after an arrest in La Palma | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-la-palma | how do bail bonds work in La Palma | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-la-palma | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-la-palma | how to get someone out of jail in La Palma | Release Process | ⬜ |
