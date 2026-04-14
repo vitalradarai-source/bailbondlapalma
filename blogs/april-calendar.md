@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-la-palma | what happens after an arrest in La Palma | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-la-palma | how do bail bonds work in La Palma | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-la-palma | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-la-palma | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-la-palma | how to get someone out of jail in La Palma | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-la-palma | domestic violence bail bonds La Palma | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-la-palma | DUI bail bonds La Palma | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-la-palma | felony bail bonds La Palma | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-la-palma-bail-bonds | la palma bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-la-palma | drug possession bail La Palma | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-la-palma | can you bail someone out at night in La Palma | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-la-palma | how long does it take to bail someone out of Cypress PD | Timeline | ⬜ |
