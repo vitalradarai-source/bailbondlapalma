@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-la-palma | how much does a bail bondsman charge in La Palma | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-la-palma | bail bond payment plan La Palma | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-la-palma | jail booking process at Cypress PD | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-la-palma | how to find someone in jail La Palma | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-la-palma | what to expect at arraignment North Justice Center | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-la-palma | bail hearing process in Orange County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-la-palma | warrant bail bonds La Palma | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-la-palma | what happens if you miss court date La Palma | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-la-palma | assault and battery bail bonds La Palma | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-la-palma | theft and burglary bail bonds La Palma | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-la-palma | how to choose a bail bondsman in La Palma | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-la-palma | what does a bail bond cosigner do La Palma | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-la-palma | bail conditions and restrictions Orange County | Conditions | ⬜ |
+| 2026-04-21 | Tue | bail-hearing-la-palma | bail hearing process in Orange | Bail Hearing | ⬜ |
+| 2026-04-22 | Wed | warrant-bail-bonds-la-palma | warrant bail bonds La Palma | Warrants | ⬜ |
+| 2026-04-23 | Thu | what-happens-miss-court-la-palma | what happens if you miss court date La Palma | FTA | ⬜ |
+| 2026-04-24 | Fri | assault-bail-bonds-la-palma | assault and battery bail bonds La Palma | Assault | ⬜ |
+| 2026-04-25 | Sat | theft-bail-bonds-la-palma | theft and burglary bail bonds La Palma | Theft | ⬜ |
+| 2026-04-26 | Sun | choosing-bail-bondsman-la-palma | how to choose a bail bondsman in La Palma | How to Choose | ⬜ |
+| 2026-04-27 | Mon | bail-bond-cosigner-la-palma | what does a bail bond cosigner do La Palma | Cosigner | ⬜ |
+| 2026-04-28 | Tue | bail-bond-conditions-la-palma | bail conditions and restrictions in Orange | Conditions | ⬜ |
+| 2026-04-29 | Wed | first-offense-bail-la-palma | first offense bail bonds La Palma | First Offense | ⬜ |
+| 2026-04-30 | Thu | felony-vs-misdemeanor-bail-la-palma | felony vs misdemeanor bail La Palma | Charge Types | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
